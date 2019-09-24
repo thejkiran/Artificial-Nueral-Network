@@ -1,2 +1,2 @@
 # Artificial-Nueral-Network
-ANN withconfusion matrix and accuracy
+ANN with confusion matrix and accuracy
